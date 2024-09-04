@@ -1,0 +1,6 @@
+[submodule "submodule-test"]
+	path = submodule-test
+	url = https://github.com/tulio-data/submodule-test.git
+[submodule "testSubmodulesJoao"]
+	path = testSubmodulesJoao
+	url = https://github.com/JoaoCamargoDataRudder/testSubmodulesJoao.git
